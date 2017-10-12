@@ -6,6 +6,6 @@ That is python build engine which helps to communicate with:
 2. Nexus client
 3. Collaborator code review client
 
-That is goof set of python libs for integration and
+That is good set of python libs for integration and
 utilization under CI (continuous integration)
  
